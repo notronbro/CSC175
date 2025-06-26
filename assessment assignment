@@ -10,7 +10,6 @@
 <script>
 console.log("Hello world!");
 document.getElementById("demo").innerHTML = "<h2>Am I doing this right?</h2>";
-// <button type="button" onclick="document.write(7 * 8)">Try it</button>
 </script>
 
 </body>
